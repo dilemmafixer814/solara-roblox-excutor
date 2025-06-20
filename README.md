@@ -58,11 +58,6 @@
 
 ---
 
-## ❗ Disclaimer
-
-Solara Executor is for educational purposes only. Use responsibly. We are not affiliated with Roblox Corporation. Use at your own risk.
-
----
 
 ## 🙋 Support
 
